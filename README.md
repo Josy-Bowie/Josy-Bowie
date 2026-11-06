@@ -27,7 +27,7 @@ When I'm not working with data, I enjoy hiking or mentoring others. I love the "
 
 - **Project A:** ClassicModels Data Analytics - Designing an OLAP star schema in MySQL and developing a dynamic Power BI dashboard for sales, finance, HR, and logistics analysis. 
 - **Project B:** Retail Customer Analytics — End-to-end analysis of customer shopping behavior using Python, SQL, and Power BI.
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Content Creation:** Developing new tutorials on data visualization for my YouTube channel.
 
 ## 🌱 Currently Learning 
 
